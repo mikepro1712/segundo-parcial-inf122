@@ -1,0 +1,26 @@
+.BotonEdit{
+    border-radius: 0px 10px 10px 0px;
+    background: #1C9675;
+    height: 30px;
+    width: 100px;
+    color: #F6F7F9;
+
+font-family: Overpass;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.Text-inp{
+    border-radius: 10px 0px 0px 10px;
+    background: #F6F7F9;
+    height:25px;
+    width: 500px;
+    color: #767E8C;
+
+font-family: Overpass;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
